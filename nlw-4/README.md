@@ -3,10 +3,8 @@
 </h1>
 
 <p align="center">
- <a href="#-about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="#-tech">Tecnologias</a>&nbsp;&nbsp;&nbsp;
-</p>
+  <img alt="design do projeto" width="650px" src="./readme-assets/design.png" />
+<p>
 
 ## 💻 Sobre
 
@@ -18,7 +16,7 @@ A ideia é de que o usuário utiliza de um timer para que a cada 25 minutos ela 
 
 ## 🎨 Layout
 
-<pd>
+<p>
   Você pode ver o layout original do projeto através deste <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/" alt="Link para o layout">link</a>. É necessário uma conta no <a href="https://figma.com/" alt="Homepage do Figma">Figma</a> para acessá-lo.
 </p>
 
