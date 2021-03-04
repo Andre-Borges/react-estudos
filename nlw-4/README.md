@@ -1,4 +1,39 @@
+<h1 align="center">
+  <img alt="moveit" title="moveit" src="public/logo-full.svg" width="220px" />
+</h1>
+
+<p align="center">
+ <a href="#-about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#-tech">Tecnologias</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+## 💻 Sobre
+
+Projeto feito durante a <strong>Next Level Week #4</strong> da <a href="http://app.rocketseat.com.br">Rocketseat</a>. O intuito do evento era para realizar o desenvolvimento de uma aplicação voltada para todos que ficam diretamente na frente do computador (principalmente desenvolvedores) através do uso de tecnologias que estão em alta no mercado (ReactJS - Foco em utilização do NextJS).
+
+A ideia é de que o usuário utiliza de um timer para que a cada 25 minutos ela seja lembrada de fazer uma pausa e, durante a pausa, realizar um exercício específico que a aplicação desponibiliza. Após a realização do exercício o usuário confirma que realizou o exercício e recebe uma motivação (no caso foi utilizado a temática de RPGs, como ganhar experiência para subir de level.) e segue para o próximo timer.
+
+<br/>
+
+## 🎨 Layout
+
+<pd>
+  Você pode ver o layout original do projeto através deste <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/" alt="Link para o layout">link</a>. É necessário uma conta no <a href="https://figma.com/" alt="Homepage do Figma">Figma</a> para acessá-lo.
+</p>
+
+<br/>
+
+## 🚀 Tecnologias
+
+O projeto foi desenvolvido com as seguintes tecnologias:
+
+- **[ReactJS](https://developer.mozilla.org/en-US/docs/Glossary/HTML)**
+- **[NextJS](https://sass-lang.com/documentation/syntax)**
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+<br/>
 
 ## Getting Started
 
@@ -12,11 +47,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<br/>
 
 ## Learn More
 
@@ -27,8 +58,14 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+<br/>
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+<br/>
+
+- https://moveit-gold-alpha.vercel.app/
