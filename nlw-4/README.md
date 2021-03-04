@@ -26,12 +26,12 @@ A ideia é de que o usuário utiliza de um timer para que a cada 25 minutos ela 
 
 ## 🚀 Tecnologias
 
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 O projeto foi desenvolvido com as seguintes tecnologias:
 
 - **[ReactJS](https://developer.mozilla.org/en-US/docs/Glossary/HTML)**
 - **[NextJS](https://sass-lang.com/documentation/syntax)**
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 <br/>
 
