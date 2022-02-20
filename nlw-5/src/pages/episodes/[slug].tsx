@@ -1,3 +1,5 @@
+// [slug] -> colchete, parametro dinamico
+
 import { format, parseISO } from 'date-fns';
 import ptBR from 'date-fns/locale/pt-BR';
 import { GetStaticPaths, GetStaticProps } from 'next';
