@@ -1,0 +1,13 @@
+// Clusters Atlas Mongodb -> https://www.mongodb.com/cloud/atlas
+// Client MongoDB -> https://www.mongodb.com/try/download/compass
+
+USER - omnistack
+PASS - omnistack
+
+http://portquiz.net:27017/ - PORTA PADRÃO MONGODB
+
+
+// LIBERAR PORTA NODE
+sudo lsof -i :3333
+
+kill -9 {PID}
