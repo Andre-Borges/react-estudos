@@ -1,1 +1,1 @@
-## Repositório criado para conteúdos da Pós Graduação - Uni-FACEF.
+## Repositório criado para estudos sobre React JS.
